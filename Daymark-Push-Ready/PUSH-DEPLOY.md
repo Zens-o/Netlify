@@ -25,7 +25,7 @@ From the project folder, run:
 npx web-push generate-vapid-keys --json
 ```
 
-Keep the private key private. Do not commit it or paste it into the app's HTML.
+Important: enter the full long key values printed after `publicKey` and `privateKey`. Do not type the words `publicKey` or `privateKey` as the values. Keep the private key private. Do not commit it or paste it into the app's HTML.
 
 ## 3. Add Netlify environment variables
 
