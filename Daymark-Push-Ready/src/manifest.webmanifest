@@ -1,0 +1,11 @@
+{
+  "name": "Daymark · Life tracker",
+  "short_name": "Daymark",
+  "description": "A personal life planner with trumpet practice tracking.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#080d15",
+  "theme_color": "#080d15",
+  "icons": [{"src":"/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}

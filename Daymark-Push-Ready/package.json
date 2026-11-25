@@ -1,0 +1,10 @@
+{
+  "name": "daymark-life-tracker",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=20" },
+  "dependencies": {
+    "@netlify/blobs": "^11.1.11",
+    "web-push": "^4.0.0"
+  }
+}
